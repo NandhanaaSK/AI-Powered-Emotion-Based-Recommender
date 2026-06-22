@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+
+dataset/
+mp2_web/app.db
